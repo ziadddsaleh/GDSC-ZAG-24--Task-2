@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(47, 25, 67);
+    color: white;}
+   ul li a{
+        color: rgb(255, 0, 128);
+        
+        }
+        span{
+            color: rgb(255, 0, 128);
+        }
+    
+    .zz{
+        background-color: white;
+        color: black;
+        border-style: solid;
+        margin: 20px 100px;
+        padding: 30px;
+    
+    }
